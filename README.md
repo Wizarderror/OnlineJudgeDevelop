@@ -1,2 +1,2 @@
-# OnlineJudgeFE
-HUSTOJ 前端二次开发
+# OnlineJudgeDevelop
+HUSTOJ 二次开发
